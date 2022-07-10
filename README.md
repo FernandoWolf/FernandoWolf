@@ -10,7 +10,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/2a/Burning_Skull_%28texture%29_JE2_BE1.png/revision/latest?cb=20201027062512">
+  <img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/2a/Burning_Skull_%28texture%29_JE2_BE1.png/revision/latest?cb=20201027062512">
 </div>
   
   ##
