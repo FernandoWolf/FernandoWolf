@@ -1,8 +1,7 @@
-- 👋 Olá! Eu sou o FernandoWolf.
-Estou trabalhando em vários projetos, os mais interessantes irei postar aqui.
+## Olá, eu sou o FernandoWolf ☕
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/fernandowolf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandowolf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandowolf&layout=compact&langs_count=7&theme=dracula"/>
 </div>
